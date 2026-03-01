@@ -99,7 +99,7 @@ No install needed — all dependencies load from CDN.
 
 ```
 index.html            ← entire app (HTML + CSS + JS, all inline)
-config.example.js             ← ShadeMap API key — rename to config.js and replace placeholder with your key
+config.example.js     ← ShadeMap API key — rename to config.js and replace placeholder with your key
 assets/
   shadeTrails-icon.svg
   shadeTrails-splashscreen.svg
