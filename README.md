@@ -2,7 +2,7 @@
 
 **Sun-aware walking routes for urban environments.**
 
-shadeTrails is an open-source proof of concept that explores how environmental intelligence can inform pedestrian navigation in cities. It retrieves walking routes between two points, scores each by shade coverage at a selected time of day, and ranks them shadiest-first.
+shadeTrails is aproof of concept of web application that explores how environmental intelligence can inform pedestrian navigation in cities. It retrieves walking routes between two points, scores each by shade coverage at a selected time of day, and ranks them shadiest-first.
 
 ---
 
