@@ -1,6 +1,11 @@
 # shadeTrails
 
-Live demo accessible here: [http://shadetrails.pages.dev](https://shadetrails.pages.dev/)
+---
+
+Live demo accessible here: 
+[http://shadetrails.pages.dev](https://shadetrails.pages.dev/)
+
+---
 
 **Sun-aware walking routes for urban environments.**
 
