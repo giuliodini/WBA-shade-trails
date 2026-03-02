@@ -1,5 +1,7 @@
 # shadeTrails
 
+Live demo accessible here: [http://shadetrails.pages.dev](https://shadetrails.pages.dev/)
+
 **Sun-aware walking routes for urban environments.**
 
 shadeTrails is aproof of concept of web application that explores how environmental intelligence can inform pedestrian navigation in cities. It retrieves walking routes between two points, scores each by shade coverage at a selected time of day, and ranks them shadiest-first.
